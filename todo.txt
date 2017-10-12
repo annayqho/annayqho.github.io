@@ -1,0 +1,4 @@
+- add a plot to each science section
+- add links to the Cannon section
+- upload public talks to speakerdeck and link to them
+- links to talks and volunteering section
