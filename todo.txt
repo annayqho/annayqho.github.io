@@ -5,3 +5,4 @@
 - link to Terzan 5 code
 - load some of your teaching materials
 - picture from outreach
+- add CV
