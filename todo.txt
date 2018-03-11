@@ -6,3 +6,5 @@
 - load some of your teaching materials
 - picture from outreach
 - add CV
+- ZTF stuff
+- update CV
