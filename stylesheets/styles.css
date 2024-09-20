@@ -178,6 +178,18 @@ header ul {
   width:270px;
 }
 
+ul {
+    margin-left: 20px; /* Adjust the left indent */
+    padding: 0;
+    line-height: 1.5; /* Increase readability with slightly more spacing between lines */
+    list-style-position: inside; /* Controls where bullet points appear */
+}
+
+li {
+    margin-bottom: 5px; /* Adds some spacing between list items */
+}
+
+
 header li {
   width:89px;
   float:left;
